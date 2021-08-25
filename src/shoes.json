@@ -1,0 +1,38 @@
+{
+  "air-jordan-3-valor-blue": {
+    "name": "Product 1",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "jordan-mars-270-london": {
+    "name": "Product 2",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "air-jordan-1-zoom-racer-blue": {
+    "name": "Product 3",
+    "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "air-jordan-3-valor-blue1": {
+    "name": "Product 4",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3fa37c79-a998-4936-9a71-086fddb1b3a9/air-zoom-superrep-2-next-nature-hiit-class-shoe-CZ71bD.png"
+  },
+  "Air Jordan 1 Mid SE": {
+    "name": "Product 5",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7a610bed-f867-409f-a495-eca3e4ab867f/air-jordan-1-mid-se-shoe-R70d7t.png"
+  },
+  "air-jordan-1-zoom-racer-blue3": {
+    "name": "Product 6",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1c9fd2f4-fe7b-4999-8887-961ea81a9bf2/air-jordan-1-mid-shoes-RRTg1P1y.png"
+  },
+  "Nike Air Max": {
+    "name": "Product 7",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e5af7319-a671-4187-a10a-020e09e7b3db/air-max-2021-shoes-w7ffPL.png"
+  },
+  "Nike Cosmic Unity 'Green Glow": {
+    "name": "Product 8",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cbc2df3c-586f-4657-96ad-d1254ee5ec97/cosmic-unity-green-glow-basketball-shoe-nkvMJj.png"
+  },
+  "Space Hippie 03 – Volt": {
+    "name": "Product 9",
+    "img": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/65fa795e-8ff1-440a-95f2-5e37018fe262/space-hippie-03-volt-this-is-trash-release-date.jpg"
+  }
+}
