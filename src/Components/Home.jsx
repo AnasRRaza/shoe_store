@@ -1,11 +1,28 @@
+import { Button } from '@material-ui/core';
 import React from 'react'
-import bg from '../images/bg.jpg'
+import { Link } from 'react-router-dom';
 
 const Home = () => {
+
+  const btnStyle = {
+    marginTop: "25px",
+    backgroundColor: "#000",
+    borderRadius: "8px"
+  }
+
   return (
-    <div>
-      <img src={bg} alt="" />
-    </div>
+    <div className="home">
+      <div className="bg">
+        <div className="text">
+          <h1>Welcome to ABC Shoe Store</h1>
+          <Button className="btn" variant="contained" color="primary" style={btnStyle}>
+            <Link to="/product">
+              Buy Now
+            </Link>
+          </Button>
+        </div>
+      </div>
+    </div >
   )
 }
 

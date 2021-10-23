@@ -1,38 +1,47 @@
 {
   "air-jordan-3-valor-blue": {
-    "name": "Product 1",
-    "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    "name": "Nike Air Force 1",
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/9ad58a42-43f8-4d38-8a65-cd1386d7bba0/air-force-1-07-shoes-tH8G4h.png",
+    "price": 120
   },
   "jordan-mars-270-london": {
-    "name": "Product 2",
-    "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    "name": "Nike Air Max Furyosa",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2df55c9d-72c8-456e-b757-bced06b0e79c/air-max-furyosa-shoes-Gb2SMn.png",
+    "price": 96
   },
   "air-jordan-1-zoom-racer-blue": {
-    "name": "Product 3",
-    "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    "name": "Nike React Vision",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1c27322e-d8fc-4c42-8ff7-c9f711dc93a5/react-vision-shoes-wt7Jl4.png",
+    "price": 72
   },
   "air-jordan-3-valor-blue1": {
-    "name": "Product 4",
-    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3fa37c79-a998-4936-9a71-086fddb1b3a9/air-zoom-superrep-2-next-nature-hiit-class-shoe-CZ71bD.png"
+    "name": "Nike Dunk Low SE",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a40c2006-b602-4c25-a0cd-0fcd973b99d9/dunk-low-se-shoes-Thxx8K.png",
+    "price": 65
   },
   "Air Jordan 1 Mid SE": {
-    "name": "Product 5",
-    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7a610bed-f867-409f-a495-eca3e4ab867f/air-jordan-1-mid-se-shoe-R70d7t.png"
+    "name": "Nike Air Max 2021",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3cd6ba48-cf35-4439-b0d5-0fe40ca05eb6/air-max-2021-shoes-DLhvVm.png",
+    "price": 108
   },
   "air-jordan-1-zoom-racer-blue3": {
-    "name": "Product 6",
-    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1c9fd2f4-fe7b-4999-8887-961ea81a9bf2/air-jordan-1-mid-shoes-RRTg1P1y.png"
+    "name": "Air Jordan 3",
+    "img": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/da011921-9840-4310-b656-445bc71cb739/air-jordan-3-pine-green-ct8532-030-release-date.jpg",
+    "price": 100
   },
   "Nike Air Max": {
-    "name": "Product 7",
-    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e5af7319-a671-4187-a10a-020e09e7b3db/air-max-2021-shoes-w7ffPL.png"
+    "name": "Nike Air Max",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e5af7319-a671-4187-a10a-020e09e7b3db/air-max-2021-shoes-w7ffPL.png",
+    "price": 95
   },
   "Nike Cosmic Unity 'Green Glow": {
-    "name": "Product 8",
-    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cbc2df3c-586f-4657-96ad-d1254ee5ec97/cosmic-unity-green-glow-basketball-shoe-nkvMJj.png"
+    "name": "Nike Cosmic 'Green Glow",
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/cbc2df3c-586f-4657-96ad-d1254ee5ec97/cosmic-unity-green-glow-basketball-shoe-nkvMJj.png",
+    "price": 99
   },
   "Space Hippie 03 – Volt": {
-    "name": "Product 9",
-    "img": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/65fa795e-8ff1-440a-95f2-5e37018fe262/space-hippie-03-volt-this-is-trash-release-date.jpg"
+    "name": "Space Hippie 03 – Volt",
+    "img": "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/65fa795e-8ff1-440a-95f2-5e37018fe262/space-hippie-03-volt-this-is-trash-release-date.jpg",
+    "price": 90
   }
 }
