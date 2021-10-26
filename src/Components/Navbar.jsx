@@ -46,9 +46,6 @@ const useStyles = makeStyles((theme) => ({
     fontSize: "16px"
   },
   menu: {
-    // color: "white",
-    // backgroundColor: "#383333",
-    // margin: 0,
   },
 
 }));
@@ -117,23 +114,20 @@ const Navbar = (props) => {
                     onClick={() => setAnchor(null)}
                     component={Link}
                     to="/"
-                    className={classes.menu}
                   >
                     <Typography variant="h6"> Home</Typography>
                   </MenuItem>
-                  <MenuItem
+                  {/* <MenuItem
                     onClick={() => setAnchor(null)}
                     component={Link}
                     to="/about"
-                    className={classes.menu}
                   >
                     <Typography variant="h6"> About Us </Typography>
-                  </MenuItem>
+                  </MenuItem> */}
                   <MenuItem
                     onClick={() => setAnchor(null)}
                     component={Link}
                     to="/product"
-                    className={classes.menu}
                   >
                     <Typography variant="h6"> Products</Typography>
                   </MenuItem>
@@ -150,7 +144,7 @@ const Navbar = (props) => {
                 >
                   Home
                 </Button>
-                <Button
+                {/* <Button
                   variant="text"
                   component={Link}
                   to="/about"
@@ -158,7 +152,7 @@ const Navbar = (props) => {
                   className={classes.navItem}
                 >
                   About Us
-                </Button>
+                </Button> */}
                 <Button
                   variant="text"
                   component={Link}

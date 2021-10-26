@@ -21,7 +21,6 @@ body {
 }
 
 .home {
-  /* background-color: rgb(161, 156, 156) !important; */
   height: 100vh;
   width: 95%;
   margin-top: 100px;
@@ -32,28 +31,24 @@ body {
 }
 
 .bg {
-  /* background-color: rgb(161, 156, 156); */
+  background-position: right;
   background-image: url("./images/bg.png");
-  background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 80%;
-  width: 70%;
+  height: 100%;
+  width: 100%;
+  background-position: center;
   border-radius: 50px;
-  margin: 30px;
-  margin-left: 350px;
 }
 
 .text {
-  position: absolute;
-  top: 200px;
-  left: 100px;
-  text-align: center;
+  display: none;
   color: #000;
 }
 
 .text>h1 {
   font-size: 36px;
+  margin-bottom: 20px;
 }
 
 .btn a {
@@ -62,39 +57,9 @@ body {
   padding: 4px 10px;
 }
 
-@media only screen and (max-width: 600px) {
-  .home {
-    width: 100vw;
-    height: 80vh;
-    margin: 0;
-    border-radius: 0;
-    box-shadow: 0;
-  }
-  .bg {
-    width: 100%;
-    height: 100vh;
-    background-size: contain;
-    margin: 0;
-    border-radius: 0;
-    /* background: none; */
-  }
-  .text {
-    position: absolute;
-    top: 50px;
-    left: 0px;
-    text-align: center;
-    padding: 20px;
-  }
-  .footer {
-    min-width: 100vw;
-    /* backgro */
-  }
-}
-
 .about {
   display: flex;
   justify-content: center;
-  /* align-items: center; */
   flex-direction: column;
   height: 100vh;
 }
@@ -108,7 +73,6 @@ body {
   flex-direction: column;
   position: relative;
   padding: 20px 0;
-  /* position: fixed; */
   bottom: 0;
 }
 
@@ -131,4 +95,39 @@ body {
   border-radius: 40%;
   margin: 5px 10px;
   cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .home {
+    width: 100vw;
+    height: 80vh;
+    border-radius: 0;
+    margin: 0;
+    box-shadow: 0;
+  }
+  .bg {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    border-radius: 0;
+  }
+  .text {
+    display: block;
+    position: absolute;
+    margin: 0 auto;
+    top: 50px;
+    text-align: center;
+    padding: 30px 40px;
+  }
+  .text>h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  .btn a {
+    padding: 0px 0px;
+    font-size: small;
+  }
+  .footer {
+    min-width: 100vw;
+  }
 }

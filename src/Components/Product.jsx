@@ -21,7 +21,11 @@ const useStyles = makeStyles((theme) => ({
     padding: theme.spacing(2),
     textAlign: 'center',
     color: theme.palette.text.secondary,
-    borderRadius: "15px"
+    borderRadius: "15px",
+    display: "flex",
+    justifyContent: "center",
+    flexDirection: "column",
+    alignItems: "center"
   },
   imgSize: {
     width: '200px',
@@ -48,7 +52,7 @@ export default function Product() {
         {Object.keys(Shoes).map(keyName => {
           const shoe = Shoes[keyName];
           return (
-            <Grid item xs={12} sm={4} key={keyName}>
+            <Grid item xs={12} sm={6} md={4} key={keyName}>
               <Link to={`/product/${keyName}`} className={classes.link}>
                 <Paper className={classes.paper} elevation={3}>
                   <h1 className={classes.productName}>{shoe.name}</h1>
